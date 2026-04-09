@@ -2,7 +2,6 @@ fastapi
 uvicorn[standard]
 sqlalchemy
 alembic
-psycopg2-binary
 pydantic-settings
 sqladmin
 python-multipart
